@@ -41,5 +41,4 @@ after that i build the machine using python libraries
 - then i use **streamlit library** for create a web app and i create the phototype of that web app using steamlit 
 - finally i pushed it in in heroku server and the model works like amezing .
 
-web application
-link-https://movie-recommend-my-app.herokuapp.com/
+
